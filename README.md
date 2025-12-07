@@ -54,7 +54,7 @@ Tracking and translating cutting-edge research.
 
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher) – In-depth paper reviews (LLMs/transformers).
 - [Henry AI Labs](https://www.youtube.com/c/HenryAILabs) – Research roundups across DL/RL.
-- [AI Explained](https://www.youtube.com/@ai_explained) – Analysis of current AI capabilities & trends.
+- [AI Explained](https://www.youtube.com/@aiexplained-official) – Analysis of current AI capabilities & trends.
 - [ML Street Talk](https://www.youtube.com/c/MLStreetTalk) – Long-form interviews with researchers.
 - [DeepLearningAI](https://www.youtube.com/c/Deeplearningai) – Talks, shorts, and course snippets.
 
